@@ -1,0 +1,135 @@
+# Determines how much items are worth on the server.
+# This can be set in this file, or by running the /setworth command.
+worth:
+  # Items not listed in this file will not be sellable on the server
+  # Setting the worth to 0 will sell items for free, delete the item or set to -1 to disable.
+
+  # Старые примеры (можно оставить)
+  wool:
+    "0": 20
+  leaves:
+    "0": 1.0
+    "1": 1.0
+  sapling:
+    "0": 2.0
+    "*": 2.5
+
+  # === Vanilla базовые ресурсы (сильно порезаны, чтобы фермы не ломали экономику) ===
+  log: 0.8
+  wood: 0.2
+  planks: 0.05
+  stick: 0.02
+  dirt: 0.05
+  grass_block: 0.08
+  cobblestone: 0.08
+  stone: 0.15
+  gravel: 0.1
+  sand: 0.08
+  sandstone: 0.2
+  clay_ball: 0.8
+  clay: 3.0
+  coal: 4.0
+  iron_ingot: 12.0
+  gold_ingot: 25.0
+  diamond: 180.0
+  emerald: 140.0
+  lapis_lazuli: 3.0
+  redstone: 2.5
+  wheat: 1.5
+  seeds: 0.3
+  apple: 2.0
+  bread: 5.0
+  egg: 0.8
+  leather: 6.0
+  bone: 1.5
+  string: 2.0
+  gunpowder: 4.0
+  feather: 1.2
+  cactus: 1.5
+  sugar_cane: 1.0
+  pumpkin: 3.0
+
+  # === Create Mod ===
+  create:andesite: 0.4
+  create:andesite_alloy: 8.0
+  create:brass_ingot: 35.0
+  create:brass_sheet: 40.0
+  create:copper_sheet: 12.0
+  create:iron_sheet: 15.0
+  create:sturdy_sheet: 45.0
+  create:shaft: 4.0
+  create:cogwheel: 6.0
+  create:large_cogwheel: 12.0
+  create:mechanical_press: 80.0
+  create:mechanical_mixer: 95.0
+  create:millstone: 70.0
+  create:crushing_wheel: 120.0
+  create:water_wheel: 55.0
+  create:windmill_bearing: 65.0
+  create:encased_fan: 85.0
+  create:depot: 25.0
+  create:belt_connector: 18.0
+  create:mechanical_piston: 90.0
+  create:mechanical_bearing: 75.0
+  create:rotation_speed_controller: 110.0
+  create:flywheel: 50.0
+  create:precision_mechanism: 180.0
+  create:electron_tube: 25.0
+  create:polished_rose_quartz: 30.0
+  create:rose_quartz: 12.0
+  create:chromatic_compound: 220.0
+  create:refined_radiance: 450.0
+  create:shadow_steel: 420.0
+
+  # === Mekanism, AE2, Thermal, Ad Astra, FarmersDelight и остальные ===
+  mekanism:ingot_osmium: 22.0
+  mekanism:ingot_tin: 18.0
+  mekanism:dust_osmium: 10.0
+  mekanism:dust_tin: 8.0
+  mekanism:ingot_refined_obsidian: 280.0
+  mekanism:ingot_refined_glowstone: 260.0
+  mekanism:fluorite_gem: 15.0
+  mekanism:ingot_steel: 45.0
+  mekanism:enriched_iron: 20.0
+
+  appliedenergistics2:certus_quartz_crystal: 18.0
+  appliedenergistics2:charged_certus_quartz_crystal: 35.0
+  appliedenergistics2:fluix_crystal: 25.0
+  appliedenergistics2:fluix_dust: 12.0
+  appliedenergistics2:silicon: 8.0
+  appliedenergistics2:logic_processor: 320.0
+  appliedenergistics2:calculation_processor: 310.0
+  appliedenergistics2:engineering_processor: 330.0
+
+  thermal:copper_ingot: 10.0
+  thermal:tin_ingot: 16.0
+  thermal:lead_ingot: 20.0
+  thermal:silver_ingot: 28.0
+  thermal:nickel_ingot: 24.0
+  thermal:bronze_ingot: 38.0
+  thermal:constantan_ingot: 42.0
+  thermal:electrum_ingot: 55.0
+  thermal:signalum_ingot: 180.0
+  thermal:lumium_ingot: 190.0
+  thermal:enderium_ingot: 450.0
+
+  ad_astra:steel_ingot: 50.0
+  ad_astra:desh_ingot: 280.0
+  ad_astra:ostrum_ingot: 520.0
+  ad_astra:calorite_ingot: 950.0
+  ad_astra:moon_stone: 0.6
+  ad_astra:mars_stone: 1.2
+
+  farmersdelight:onion: 1.8
+  farmersdelight:tomato: 1.8
+  farmersdelight:cabbage: 2.2
+  farmersdelight:rice: 1.5
+  farmersdelight:straw: 0.4
+
+  minecraft:raw_iron: 6.0
+  minecraft:raw_gold: 14.0
+  minecraft:raw_copper: 5.0
+  minecraft:amethyst_shard: 45.0
+  minecraft:echo_shard: 650.0
+  minecraft:sculk: 12.0
+  minecraft:sculk_catalyst: 1800.0

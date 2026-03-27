@@ -1,0 +1,52 @@
+
+[general]
+	#Rewind time in seconds
+	#Range: 1 ~ 60
+	rewind_seconds = 10
+	#Cooldown in minutes
+	#Range: 1 ~ 60
+	cooldown_minutes = 5
+	#XP levels consumed per rewind
+	#Range: 0 ~ 100
+	xp_cost = 0
+	#Radius to remove dropped items on rewind
+	#Range: 50 ~ 200
+	drop_remove_radius = 100
+	#Automatically seed scarlet_ore around spawn at server start
+	auto_seed_spawn = true
+	#Chunk radius around spawn to auto-seed
+	#Range: 1 ~ 64
+	auto_seed_radius_chunks = 8
+	#Number of samples per chunk when auto-seeding spawn area
+	#Range: 16 ~ 4096
+	auto_seed_samples_per_chunk = 256
+	#Replacement chance (0.0 - 1.0) used during auto-seed
+	#Range: 0.0 ~ 1.0
+	auto_seed_chance = 0.05
+	#Replace diamond-type blocks placed by creative players with scarlet_ore
+	auto_replace_on_creative_place = true
+	#When true, diamond/ds/ancient blocks placed by any player may be converted to scarlet_ore
+	auto_replace_on_place = true
+	#Chance (0.0 - 1.0) that a placement is converted to scarlet_ore
+	#Range: 0.0 ~ 1.0
+	auto_replace_place_chance = 0.05
+	#Automatically attempt to rewind when a player receives a lethal hit
+	auto_rewind_on_fatal = true
+	#Rarity of the Time Warp enchantment
+	#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+	enchant_rarity = "VERY_RARE"
+	#Minimum XP cost displayed for the enchantment
+	#Range: 0 ~ 1000
+	enchant_min_cost = 50
+	#Maximum XP cost displayed for the enchantment
+	#Range: 0 ~ 1000
+	enchant_max_cost = 100
+	#Chance that a Time Warp enchanted book will appear in a loot chest. Set to 0 to disable (villager trade only). 
+	#Range: 0.0 ~ 1.0
+	enchant_book_loot_chance = 0.0
+	#Enable librarian villagers to trade a Time Warp enchanted book
+	enchant_villager_trade_enabled = true
+	#Emerald cost for the Time Warp enchanted book trade
+	#Range: 1 ~ 64
+	enchant_villager_emerald_cost = 20
+

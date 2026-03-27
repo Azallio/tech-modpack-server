@@ -1,0 +1,4 @@
+// Compost colors for ccbr. You may add your own colors, change existing ones, or remove colors that aren't needed.
+basic_integrated_circuit, #ffe08d
+integrated_circuit, #ddd2d6
+lapis_sheet, #ffffff

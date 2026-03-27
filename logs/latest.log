@@ -1,0 +1,33 @@
+[28мар.2026 00:00:07.335] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Azallio is b17fe274-ad27-3942-8e74-480fc0ccca0a
+[28мар.2026 00:00:10.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yurka2280 lost connection: Disconnected
+[28мар.2026 00:00:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yurka2280 left the game
+[28мар.2026 00:00:11.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azallio[/5.35.33.128:52858] logged in with entity id 23349 at (305.3433440323315, 72.0, -206.3003908516456)
+[28мар.2026 00:00:11.186] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Azallio
+[28мар.2026 00:00:11.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Azallio joined the game
+[28мар.2026 00:00:11.290] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Azallio.
+[28мар.2026 00:00:11.292] [Server thread/INFO] [Jade/]: Syncing config to Azallio (b17fe274-ad27-3942-8e74-480fc0ccca0a)
+[28мар.2026 00:00:29.006] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Biom_YT_pp is 109f9e8d-9036-33e1-9c52-3a09f0135b51
+[28мар.2026 00:00:32.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Biom_YT_pp[/178.70.114.200:62916] logged in with entity id 23629 at (1008.6999999880791, 70.875, 219.7348862844423)
+[28мар.2026 00:00:32.704] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Biom_YT_pp
+[28мар.2026 00:00:32.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biom_YT_pp joined the game
+[28мар.2026 00:00:32.738] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Biom_YT_pp.
+[28мар.2026 00:00:32.739] [Server thread/INFO] [Jade/]: Syncing config to Biom_YT_pp (109f9e8d-9036-33e1-9c52-3a09f0135b51)
+[28мар.2026 00:01:07.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biom_YT_pp lost connection: Disconnected
+[28мар.2026 00:01:07.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biom_YT_pp left the game
+[28мар.2026 00:29:35.427] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Opssss is f490ccc2-225c-37a4-ac87-94aca6a14fbc
+[28мар.2026 00:29:35.544] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c271c86[id=f490ccc2-225c-37a4-ac87-94aca6a14fbc,name=Opssss,properties={},legacy=false] (/178.71.140.88:54314) lost connection: Disconnected
+[28мар.2026 00:31:18.305] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Opssss is f490ccc2-225c-37a4-ac87-94aca6a14fbc
+[28мар.2026 00:31:21.897] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json: Don't know what fathomless:undaunted is
+[28мар.2026 00:31:21.897] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json: Don't know what fathomless:accursed is
+[28мар.2026 00:31:21.897] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json: Don't know what fathomless:crimson_ingot is
+[28мар.2026 00:31:21.897] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json: Don't know what fathomless:crimson_dust is
+[28мар.2026 00:31:21.897] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json: Don't know what fathomless:basalt_bone is
+[28мар.2026 00:31:21.897] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json: Don't know what fathomless:crimson_tendon is
+[28мар.2026 00:31:21.903] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'fathomless:fathomless_crimson_advancement' in progress file ./world/advancements/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json - it doesn't exist anymore?
+[28мар.2026 00:31:21.907] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'fathomless:troubled_boy' in progress file ./world/advancements/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json - it doesn't exist anymore?
+[28мар.2026 00:31:21.907] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'fathomless:not_so_dauntless' in progress file ./world/advancements/f490ccc2-225c-37a4-ac87-94aca6a14fbc.json - it doesn't exist anymore?
+[28мар.2026 00:31:21.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Opssss[/178.71.140.88:52148] logged in with entity id 27464 at (298.9329692076605, 71.00133597911214, -215.15311903365821)
+[28мар.2026 00:31:22.087] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Opssss
+[28мар.2026 00:31:22.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Opssss joined the game
+[28мар.2026 00:31:22.381] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Opssss.
+[28мар.2026 00:31:22.383] [Server thread/INFO] [Jade/]: Syncing config to Opssss (f490ccc2-225c-37a4-ac87-94aca6a14fbc)

@@ -1,0 +1,5 @@
+// Compost colors for cbc_at. You may add your own colors, change existing ones, or remove colors that aren't needed.
+apds_item, #7c7f80
+apdsfs_item, #7f8387
+he_item, #c86241
+hei_item, #d27940

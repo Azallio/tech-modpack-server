@@ -1,0 +1,438 @@
+worlds:
+  DIM-1:
+    worldborder: 5.9999968E7
+  DIM1:
+    worldborder: 5.9999968E7
+  world:
+    worldborder: 5.9999968E7
+    difficulty: EASY
+    seed: 9222879765465994203
+    environment: NORMAL
+    name: world
+    info: -/-
+    mohist: false
+    keepspawninmemory: true
+  world/DIM-1:
+    difficulty: EASY
+  world/DIM1:
+    difficulty: EASY
+  dune:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  glacio:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  vulcan_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  atmas_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  ringetic:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  mixeus:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  io:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  earth_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  titan:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  io_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  molvon:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  ganymede:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  ringetic_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  diater_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  moon:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  mars_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  vulcan:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  titan_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  vonic:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  fierer:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  europa_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  charon_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  soulfer:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  galia:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  sorea:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  dytiona:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  dytiona_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  venus_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  reveda_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  dread:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  europa:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  otherside:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: deeperdarker
+  callisto_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  mercury_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  dread_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  iapetus:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  jada:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  mercury:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  molvon_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  pluto_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  glacies_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  pluto:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  callisto:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  dune_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  charon:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  moon_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  flade:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  glacio_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  atmas:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  ganymede_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  fierer_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  reveda:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  galia_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  mars:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  enceladus_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  soulfer_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  flade_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  mixeus_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  jada_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  iapetus_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  vonic_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  venus:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  eclipsa:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  glacies:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  evedva:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  eclipsa_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  evedva_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  enceladus:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  sorea_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  diater:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: planetsplus
+  world/planetsplus/dune:
+    difficulty: EASY
+  world/ad_astra/glacio:
+    difficulty: EASY
+  world/planetsplus/vulcan_orbit:
+    difficulty: EASY
+  world/planetsplus/atmas_orbit:
+    difficulty: EASY
+  world/planetsplus/ringetic:
+    difficulty: EASY
+  world/planetsplus/mixeus:
+    difficulty: EASY
+  world/planetsplus/io:
+    difficulty: EASY
+  world/ad_astra/earth_orbit:
+    difficulty: EASY
+  world/planetsplus/titan:
+    difficulty: EASY
+  world/planetsplus/io_orbit:
+    difficulty: EASY
+  world/planetsplus/molvon:
+    difficulty: EASY
+  world/planetsplus/ganymede:
+    difficulty: EASY
+  world/planetsplus/ringetic_orbit:
+    difficulty: EASY
+  world/planetsplus/diater_orbit:
+    difficulty: EASY
+  world/ad_astra/moon:
+    difficulty: EASY
+  world/ad_astra/mars_orbit:
+    difficulty: EASY
+  world/planetsplus/vulcan:
+    difficulty: EASY
+  world/planetsplus/titan_orbit:
+    difficulty: EASY
+  world/planetsplus/vonic:
+    difficulty: EASY
+  world/planetsplus/fierer:
+    difficulty: EASY
+  world/planetsplus/europa_orbit:
+    difficulty: EASY
+  world/planetsplus/charon_orbit:
+    difficulty: EASY
+  world/planetsplus/soulfer:
+    difficulty: EASY
+  world/planetsplus/galia:
+    difficulty: EASY
+  world/planetsplus/sorea:
+    difficulty: EASY
+  world/planetsplus/dytiona:
+    difficulty: EASY
+  world/planetsplus/dytiona_orbit:
+    difficulty: EASY
+  world/ad_astra/venus_orbit:
+    difficulty: EASY
+  world/planetsplus/reveda_orbit:
+    difficulty: EASY
+  world/planetsplus/dread:
+    difficulty: EASY
+  world/planetsplus/europa:
+    difficulty: EASY
+  world/deeperdarker/otherside:
+    difficulty: EASY
+  world/planetsplus/callisto_orbit:
+    difficulty: EASY
+  world/ad_astra/mercury_orbit:
+    difficulty: EASY
+  world/planetsplus/dread_orbit:
+    difficulty: EASY
+  world/planetsplus/iapetus:
+    difficulty: EASY
+  world/planetsplus/jada:
+    difficulty: EASY
+  world/ad_astra/mercury:
+    difficulty: EASY
+  world/planetsplus/molvon_orbit:
+    difficulty: EASY
+  world/planetsplus/pluto_orbit:
+    difficulty: EASY
+  world/planetsplus/glacies_orbit:
+    difficulty: EASY
+  world/planetsplus/pluto:
+    difficulty: EASY
+  world/planetsplus/callisto:
+    difficulty: EASY
+  world/planetsplus/dune_orbit:
+    difficulty: EASY
+  world/planetsplus/charon:
+    difficulty: EASY
+  world/ad_astra/moon_orbit:
+    difficulty: EASY
+  world/planetsplus/flade:
+    difficulty: EASY
+  world/ad_astra/glacio_orbit:
+    difficulty: EASY
+  world/planetsplus/atmas:
+    difficulty: EASY
+  world/planetsplus/ganymede_orbit:
+    difficulty: EASY
+  world/planetsplus/fierer_orbit:
+    difficulty: EASY
+  world/planetsplus/reveda:
+    difficulty: EASY
+  world/planetsplus/galia_orbit:
+    difficulty: EASY
+  world/ad_astra/mars:
+    difficulty: EASY
+  world/planetsplus/enceladus_orbit:
+    difficulty: EASY
+  world/planetsplus/soulfer_orbit:
+    difficulty: EASY
+  world/planetsplus/flade_orbit:
+    difficulty: EASY
+  world/planetsplus/mixeus_orbit:
+    difficulty: EASY
+  world/planetsplus/jada_orbit:
+    difficulty: EASY
+  world/planetsplus/iapetus_orbit:
+    difficulty: EASY
+  world/planetsplus/vonic_orbit:
+    difficulty: EASY
+  world/ad_astra/venus:
+    difficulty: EASY
+  world/planetsplus/eclipsa:
+    difficulty: EASY
+  world/planetsplus/glacies:
+    difficulty: EASY
+  world/planetsplus/evedva:
+    difficulty: EASY
+  world/planetsplus/eclipsa_orbit:
+    difficulty: EASY
+  world/planetsplus/evedva_orbit:
+    difficulty: EASY
+  world/planetsplus/enceladus:
+    difficulty: EASY
+  world/planetsplus/sorea_orbit:
+    difficulty: EASY
+  world/planetsplus/diater:
+    difficulty: EASY

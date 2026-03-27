@@ -1,0 +1,1 @@
+java -jar -Xmx8G mohist-1.20.1-46ca730.jar

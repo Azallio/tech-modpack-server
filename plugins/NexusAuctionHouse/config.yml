@@ -1,0 +1,20 @@
+log-keep-time: 30d # Time after which logs will be deleted
+save-notif: false # Enable if you wish to receive notifications when the plugin saves data to the files
+tax:
+  enabled: true
+  sell-tax: 15 #Percentage of the sell price that players will have to pay in order to put their items in auction. Set to 0 to disable
+  buy-tax: 5 #Percentage of the buy price that players will have to pay in order to buy an item. Set to 0 to disable
+expiry:
+  enable: true #If set to true, items not bought within the time set below will be unlisted.
+  time: 7d
+date-format: yyyy-MM-dd HH:mm:ss #Make sure to respect the formatting when editing this (caps etc.)
+max-auctions-per-player: 5 #Maximum number of auctions a player can have at the same time. Set to 0 for unlimited.
+price-limits:
+  min: 0
+  max: 0 #Задайте максимальную цену, которую игроки могут установить для своих лотов. Установите 0, чтобы отключить это ограничение.
+lang: ru # Язык, который будет использоваться в сообщениях плагина. Убедитесь, что вы используете существующий язык, иначе плагин не запустится. Если вы хотите создать свой собственный язык, скопируйте один из существующих языков и отредактируйте его.
+listing-duration:
+  default: 48h # стандартная длительность лота
+  max: 7d # максимальная длительность лота, если игрок выберет её при выставлении
+economy:
+  type: VAULT

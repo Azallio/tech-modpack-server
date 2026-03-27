@@ -1,0 +1,20 @@
+// Compost colors for createmechanicalcompanion. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blueprint_painting, #87a8d2
+booster_rocket, #515151
+illager_engineer_spawn_egg, #d2bb94
+incomplete_mechanical_wolf_motherboard, #708757
+incomplete_optical_sensor, #836c4e
+mechanical_wolf_motherboard, #47934e
+mechanical_wolf_processor, #72a85a
+mob_radar, #c6935e
+mounted_crossbow, #e6a869
+mounted_light, #e7bb66
+netherite_plates, #bb986f
+optical_sensor, #a2735b
+quantum_drive, #989e69
+regenerative_casing, #a8865a
+reinforced_plates, #b98a4d
+rose_quartz_lens, #e69da4
+smelting_fangs, #ee9857
+tab_icon, #c9a278
+tesla_tail, #ffc294

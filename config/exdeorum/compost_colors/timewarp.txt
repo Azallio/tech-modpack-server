@@ -1,0 +1,7 @@
+// Compost colors for timewarp. You may add your own colors, change existing ones, or remove colors that aren't needed.
+scarlet_boots, #9d5a26
+scarlet_chestplate, #b2732c
+scarlet_helmet, #a85c26
+scarlet_ingot, #f89728
+scarlet_leggings, #ab5b25
+scarlet_shard, #f89728

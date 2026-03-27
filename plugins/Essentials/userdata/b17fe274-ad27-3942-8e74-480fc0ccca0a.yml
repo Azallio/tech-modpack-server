@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.35.33.128
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1774645198647
+  login: 1774645211307
+money: '0'
+last-account-name: Azallio
+lastlocation:
+  world: 66791e83-8038-49e0-845d-cfa2b621c36c
+  world-name: world
+  x: -7.553645560274387
+  y: 72.0
+  z: -95.49259480361746
+  yaw: 113.41252136230469
+  pitch: 22.649993896484375
+logoutlocation:
+  world: 66791e83-8038-49e0-845d-cfa2b621c36c
+  world-name: world
+  x: 305.3433440323315
+  y: 72.0
+  z: -206.3003908516456
+  yaw: -131.2490234375
+  pitch: 21.899799346923828

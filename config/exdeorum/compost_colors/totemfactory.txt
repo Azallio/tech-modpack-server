@@ -1,0 +1,23 @@
+// Compost colors for totemfactory. You may add your own colors, change existing ones, or remove colors that aren't needed.
+inactive_totem, #f7bf66
+incomplete_totem_body, #fb986c
+incomplete_totem_body_casing, #ffd379
+incomplete_totem_head, #e3738c
+incomplete_totem_head_casing, #ffe386
+incomplete_totem_of_undying, #fcc369
+totem_body, #faab54
+totem_body_casing, #e18636
+totem_head, #ffe686
+totem_head_casing, #e69641
+tumbaga_alloy, #ffffa2
+tumbaga_axe, #caa15b
+tumbaga_boots, #ffbc62
+tumbaga_chestplate, #ffe683
+tumbaga_helmet, #fbb158
+tumbaga_hoe, #ab8240
+tumbaga_leggings, #ffc065
+tumbaga_nugget, #ffd47d
+tumbaga_pickaxe, #bf8e48
+tumbaga_sheet, #ffeb8c
+tumbaga_shovel, #c89e5b
+tumbaga_sword, #f8b565

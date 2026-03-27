@@ -1,0 +1,119 @@
+pages:
+  page1:
+    items:
+      "1":
+        material: BAMBOO
+        buy: 0.1
+        sell: 0.0015
+      "2":
+        material: BEE_NEST
+        buy: -1
+        sell: 0.5
+      "3":
+        material: BEEHIVE
+        buy: 16.87
+        sell: 0.211
+      "4":
+        material: BEETROOT
+        buy: 6
+        sell: 0.075
+      "5":
+        material: BEETROOT_SEEDS
+        buy: 3
+        sell: 0.0375
+      "6":
+        material: BROWN_MUSHROOM
+        buy: 2
+        sell: 0.025
+      "7":
+        material: CACTUS
+        buy: 0.1
+        sell: 0.0015
+      "8":
+        material: CARROT
+        buy: 5
+        sell: 0.0625
+      "9":
+        material: CHORUS_FLOWER
+        buy: 1
+        sell: 0.0125
+      "10":
+        material: CHORUS_FRUIT
+        buy: 3
+        sell: 0.0375
+      "11":
+        material: COCOA_BEANS
+        buy: 6
+        sell: 0.075
+      "12":
+        material: CRIMSON_FUNGUS
+        buy: 6
+        sell: 0.075
+      "13":
+        material: EGG
+        buy: 5
+        sell: 0.0625
+      "14":
+        material: KELP
+        buy: 0.1
+        sell: 0.0015
+      "15":
+        material: LEATHER
+        buy: 33.6
+        sell: 0.42
+      "16":
+        material: MELON
+        buy: 9.45
+        sell: 0.1185
+      "17":
+        material: MELON_SEEDS
+        buy: 3
+        sell: 0.0375
+      "18":
+        material: MELON_SLICE
+        buy: 1
+        sell: 0.0125
+      "19":
+        material: NETHER_WART
+        buy: 3
+        sell: 0.0375
+      "20":
+        material: PITCHER_POD
+        buy: 20.5
+        sell: 0.2565
+      "21":
+        material: POTATO
+        buy: 5
+        sell: 0.0625
+      "22":
+        material: PUMPKIN
+        buy: 5
+        sell: 0.0625
+      "23":
+        material: PUMPKIN_SEEDS
+        buy: 1.19
+        sell: 0.015
+      "24":
+        material: RED_MUSHROOM
+        buy: 2
+        sell: 0.025
+      "25":
+        material: SUGAR_CANE
+        buy: 0.1
+        sell: 0.0015
+      "26":
+        material: TORCHFLOWER_SEEDS
+        buy: 20.5
+        sell: 0.2565
+      "27":
+        material: WARPED_FUNGUS
+        buy: 6
+        sell: 0.075
+      "28":
+        material: WHEAT
+        buy: 5
+        sell: 0.0625
+      "29":
+        material: WHEAT_SEEDS
+        buy: 3
+        sell: 0.0375

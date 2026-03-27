@@ -1,0 +1,11 @@
+// Compost colors for nexuslayer. You may add your own colors, change existing ones, or remove colors that aren't needed.
+constructs_construction, #f8e8cf
+even_redder_apple, #761c1c
+grated_blackstone_brick_door, #4b4450
+grated_red_nether_brick_door, #6e1f25
+immortal_feather, #ff5050
+immortalized_grace, #cae862
+iron_grating, #484144
+last_sliver, #46557a
+polished_blackstone_grating, #362d37
+rotater, #a8b84a

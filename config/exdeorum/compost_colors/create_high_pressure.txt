@@ -1,0 +1,4 @@
+// Compost colors for create_high_pressure. You may add your own colors, change existing ones, or remove colors that aren't needed.
+graphite_compressed, #757272
+graphite_powder, #3d4041
+impure_diamond, #50a19b

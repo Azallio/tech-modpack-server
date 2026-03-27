@@ -1,0 +1,2 @@
+// Compost colors for pickaxetrims. You may add your own colors, change existing ones, or remove colors that aren't needed.
+fracture_armor_trim_smithing_template, #8ca09e
